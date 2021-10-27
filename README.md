@@ -14,7 +14,7 @@ People making payhacks ask how to stream a DLL in C++ all the time, maybe they s
 Disclaimer: I whipped this up as fast as I could, nothing too special, this is just something I came up with to reduce the chance your DLL gets dumped.
 
 <div align="center">
-    <img src="https://guidedhacking.com/attachments/1615003895185-png.13605/"/>
+    <img src="https://prnt.sc/1xjhwyq"/>
 </div>
 
 This is how you stream a DLL into a string, without ever touching disk, simply using InternetReadFile
